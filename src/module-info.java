@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author jacky
+ *
+ */
+module FINANCIALASTROLOGY {
+}
